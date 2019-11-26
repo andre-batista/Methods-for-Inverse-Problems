@@ -12,7 +12,7 @@ Belo Horizonte, Brazil
 
 Hi there!  
 
-This repository intents to aggregate codes which implements methods for solving inverse problems. Since this is the subject of my reasearch, I intent to make available everything that I develop throughout my study hopping that it will be useful for people who are also studying it.  
+This repository intents to aggregate codes which implements methods for solving inverse problems. Since this is the subject of my reasearch, I intent to make available everything that I develop throughout my study hopping that it will be useful for people who are also studying it. For while, all codes will be provided in _Python_.  
 
 For now, this repository contains:  
 
